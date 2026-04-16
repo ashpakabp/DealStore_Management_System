@@ -11,8 +11,8 @@ Username: user
 Password: (check console generated password)
 
 ## API Endpoints
-- GET /products
-- POST /products
+- GET /products 
+- POST /products 
 
 ## Swagger UI
 http://localhost:8080/swagger-ui/index.html
