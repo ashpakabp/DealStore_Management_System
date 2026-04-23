@@ -17,6 +17,7 @@ Password: (check console generated password)
 - POST /products 
 
 ## Swagger UI
+
 http://localhost:8080/swagger-ui/index.html
 
 ## How to Run
