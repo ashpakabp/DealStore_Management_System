@@ -18,7 +18,6 @@ Password: (check console generated password)
 ## Swagger UI
 http://localhost:8080/swagger-ui/index.html
 
-
 ## How to Run
 1. Setup Oracle DB
 2. Update credentials in application.properties
