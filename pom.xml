@@ -6,9 +6,7 @@
     <artifactId>dealstore-management-system</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-
     <name>DealStore Management System</name>
-
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
