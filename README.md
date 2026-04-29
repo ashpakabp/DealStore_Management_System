@@ -23,5 +23,6 @@ http://localhost:8080/swagger-ui/index.html
 3. Import in STS (Maven Project)
 4. Run DealstoreApplication.java
 
+
 ## Author
 Ashpak Pathan
