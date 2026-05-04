@@ -10,7 +10,6 @@
 Username: user
 Password: (check console generated password)
 
-
 ## API Endpoints
 
 - GET /products 
