@@ -6,6 +6,7 @@
 - Swagger UI Documentation
 - Basic Login (Spring Security)
 
+
 ## Default Login
 Username: user
 Password: (check console generated password)
