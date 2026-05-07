@@ -1,9 +1,9 @@
 # DealStore Management System (Spring Boot + Oracle)
 
 ## Features
-- Product Management API.
-- Oracle Database Integration.
-- Swagger UI Documentation.
+- Product Management API
+- Oracle Database Integration
+- Swagger UI Documentation
 - Basic Login (Spring Security)
 
 
