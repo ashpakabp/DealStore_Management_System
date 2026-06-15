@@ -1,6 +1,6 @@
 # DealStore Management System (Spring Boot + Oracle)
 
-//////////////
+/////////////
 
 
 ## Features
