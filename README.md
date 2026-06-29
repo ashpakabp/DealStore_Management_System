@@ -1,8 +1,4 @@
-# DealStore Management System (Spring Boot + Oracle)
-
-
-/////////;
-
+# DealStore Management System (Spring Boot + Oracle) 
 
 ## Features
 - Product Management API
